@@ -42,7 +42,7 @@ function esImpar(num) {
    if ((num % 2)!= 0 ){return true; }
    else {return false;}
 }
-
+s
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    tienenMismaLongitud,
