@@ -18,14 +18,14 @@ function tienenMismaLongitud(str1, str2) {
 function menosQueNoventa(num) {
    // Retorna true si el argumento "num" es menor que noventa.
    // De lo contrario, retorna false.
-   if (num < 90> ){return true; }
+   if (num < 90 ){return true; }
    else {return false;}
 }
 
 function mayorQueCincuenta(num) {
    // Retorna true si el argumento "num" es mayor que cincuenta.
    // De lo contrario, retorna false.
-   if (num > 50> ){return true; }
+   if (num > 50 ){return true; }
    else {return false;}
 }
 
@@ -42,7 +42,7 @@ function esImpar(num) {
    if ((num % 2)!= 0 ){return true; }
    else {return false;}
 }
-s
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    tienenMismaLongitud,
